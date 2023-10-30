@@ -1,0 +1,22 @@
+{
+  "name": "essenciascampodeleon",
+  "version": "1.0.0",
+  "description": "info website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Everyone1138/EssenciasCampoDeLeon.git"
+  },
+  "author": "Santiago Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Everyone1138/EssenciasCampoDeLeon/issues"
+  },
+  "homepage": "https://github.com/Everyone1138/EssenciasCampoDeLeon#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
